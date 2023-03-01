@@ -1,9 +1,9 @@
 # Portfolio met React en Tailwind
 
 ### Introductie tot een JavaScript framework
-Voor dit project heb ik een portfolio gemaakt met het JavaScript framework React! Voorheen had ik nog nooit met een framework gewerkt en React zou een perfecte instap zijn. Een framework leren was ook een leerdoel van mij. 
+Voor dit project heb ik een portfolio gemaakt met het JavaScript framework React! Voorheen had ik nog nooit met een framework gewerkt en React zou een perfecte instap zijn. Een framework leren was ook een leerdoel van mij. Tijdens mijn stage zou ik waarschijnlijk ook met een framework gaan werken en als ik al een idee had hoe components werken zou ik hier zeker profijt van hebben.
 
-## Onderzoek
+### Onderzoek
 Binnen dit srp project heb ik onderzoek gedaan naar React. Hierbij heb ik een aantal vragen voor mezelf opgesteld. 
 - Wat is een framework en welke alternatieven zijn er. 
 - Wat zijn componenten en hoe werken deze samen om tot een onpager te komen.
@@ -36,6 +36,6 @@ npm install i
 4. Run het project
 
 ```
-node
+npm run start
 ```
 
