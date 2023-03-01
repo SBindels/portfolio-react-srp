@@ -36,6 +36,6 @@ npm install i
 4. Run het project
 
 ```
-npm run start
+npm run dev
 ```
 
